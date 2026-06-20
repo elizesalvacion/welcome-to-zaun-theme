@@ -129,7 +129,7 @@ Zaun is the undercity beneath Piltover — where the hextech runoff drips throug
 
 ---
 
-## Also by ElizeCodes
+## Also by ElizeSalvacion
 
 Looking for something louder? Check out **[Jinx's Room](https://marketplace.visualstudio.com/items?itemName=ElizeSalvacion.jinxs-room-theme)** — the neon pink and teal counterpart to this theme, inspired by Jinx's hideout above the undercity.
 
