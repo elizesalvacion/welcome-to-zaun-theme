@@ -43,7 +43,11 @@ The theme draws from Zaun's concept art — murky, layered, industrial. The edit
 
 ### From the VS Code Marketplace
 
-_(coming soon)_
+1. Open VS Code
+2. Press `Ctrl+Shift+X` / `Cmd+Shift+X` to open the Extensions panel
+3. Search **"Welcome to Zaun"**
+4. Click **Install**
+   Or install directly via the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ElizeSalvacion.welcome-to-zaun-theme).
 
 ### Manual install
 
