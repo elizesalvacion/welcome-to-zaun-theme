@@ -3,7 +3,9 @@
   "displayName": "Welcome to Zaun",
   "description": "An Arcane-inspired VS Code theme",
   "version": "0.0.1",
-  "publisher": "ElizeCodes",
+  "publisher": "ElizeSalvacion",
+  "icon": "welcome-to-zaun-theme.png",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -18,5 +20,31 @@
         "path": "./theme/welcome-to-zaun-color-theme.json"
       }
     ]
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "color theme",
+    "vscode-theme",
+    "dark",
+    "green",
+    "arcane",
+    "zaun",
+    "jinx",
+    "league of legends",
+    "riot games",
+    "undercity",
+    "neon",
+    "industrial",
+    "cyberpunk",
+    "dark green",
+    "amber",
+    "moody",
+    "low contrast",
+    "minimal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elizesalvacion/welcome-to-zaun-theme"
   }
 }
